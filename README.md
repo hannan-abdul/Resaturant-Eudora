@@ -1,2 +1,2 @@
-# Resaturant-Eudora
-Live Link: https://hannan-abdul.github.io/Resaturant-Eudora-Template/
+# Resaturant-Eudora created with row SCSS Link: https://hannan-abdul.github.io/Resaturant-Eudora-Template/
+
